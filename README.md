@@ -1,5 +1,5 @@
 # サイト名
-<daytrade-life>
+daytrade-life
 
 ## サイト概要
 ### サイトテーマ
